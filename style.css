@@ -1,0 +1,22 @@
+h1{
+    color:gold
+    
+}
+*{
+    border:solid
+}
+.header{
+    background-color:coral;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color:coral;
+    display:flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
